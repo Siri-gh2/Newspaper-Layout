@@ -76,10 +76,10 @@ No frameworks or libraries were used.
 
 Newspaper-Layout/
 │
-├── index.html     # Main HTML structure
-├── index.css      # Styling & responsive column layout
-├── script.js      # Light/Dark mode toggle logic
-└── README.md      # Project documentation
+├── index.html                        # Main HTML structure
+├── index.css                         # Styling & responsive column layout
+├── script.js                         # Light/Dark mode toggle logic
+└── README.md                         # Project documentation
 
 
 🎯 Key Learnings
